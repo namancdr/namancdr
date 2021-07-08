@@ -9,7 +9,7 @@
 - ⚡ Fun fact: No Fun Fact!
 
 ### Tech Stack
-🌐 HTML5 CSS JavaScript Bootstrap Node.js React
+🌐 {HTML5} CSS JavaScript Bootstrap Node.js React
 🛢 MongoDB
 ⚙️ Git GitHub Markdown
 🔧 Visual Studio Code Eclipse
