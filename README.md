@@ -9,9 +9,8 @@
 - ⚡ Fun fact: No Fun Fact!
 
 ### Tech Stack
-💻   Python Java C++
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React
-🛢   MySQL MongoDB
-⚙️   Git GitHub Markdown
-🔧   Visual Studio Code Eclipse
-🖥   Illustrator Photoshop InDesign
+🌐 HTML5 CSS JavaScript Bootstrap Node.js React
+🛢 MongoDB
+⚙️ Git GitHub Markdown
+🔧 Visual Studio Code Eclipse
+🖥  Illustrator Photoshop InDesign
