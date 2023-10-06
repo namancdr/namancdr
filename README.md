@@ -1,8 +1,8 @@
 ## Hi! Naman here. 👋
 
-### Coding | Startup | Esports
+### Coding | UI-UX | Startup | Science
 
 - 🌱 Exploring new technologies
 - 💼 Working as a Freelance Full-Stack Web Developer.
 - 🤔 Constantly learning more & more about new web technologies.
-- ✍️ Pursuing Esports and writing articles as hobbies/side hustles.
+- ✍️ Pursuing E-sports and writing articles as hobbies.
