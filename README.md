@@ -31,9 +31,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p 
-<a href="https://www.aniketchaudhari.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aniketchaudhari.com-blue?style=flat-square&logo=google-chrome"></a><br><br>
-<a href="https://www.linkedin.com/in/aniketchaudhari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aniket%20Chaudhari-blue?style=flat-square&logo=linkedin"></a>
-<br><br>
-<a href="mailto:aniket@aniketchaudhari.com"><img alt="Email" src="https://img.shields.io/badge/Email-aniket@aniketchaudhari.com-blue?style=flat-square&logo=gmail"></a>
+<p>
+<a href="https://www.linkedin.com/in/namancdr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naman%20Choudhary-blue?style=flat-square&logo=linkedin"></a>
+<br>
 </p>
