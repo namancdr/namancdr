@@ -1,6 +1,7 @@
 <h2> Hey there! I'm Naman</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🎓 &nbsp; Computer Application student at University of Pune.<br>
+- 🎓 &nbsp; Fullstack Software Developer<br>
+- 🎓 &nbsp; Computer Application Graudate from University of Pune.<br>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
